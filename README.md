@@ -1,6 +1,6 @@
-# Distributed
+# Private Package
 
-Repository for implementation of the generalized Roy model as distributed Python modules.
+Repository for implementation of the generalized Roy model as a private Python package. The accompanying lecture is available [online](http://nbviewer.ipython.org/github/grmToolbox/private.package/blob/master/lecture/lecture.ipynb).
 
 Contact:
 
